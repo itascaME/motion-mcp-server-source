@@ -1,4 +1,4 @@
-name = "motion-mcp-server"
+name = "motion-mcp-server2"
 main = "src/worker.ts"
 compatibility_date = "2025-04-01"
 compatibility_flags = ["nodejs_compat"]
